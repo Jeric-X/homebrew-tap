@@ -1,16 +1,16 @@
 cask "syncclipboard" do
-  version "3.3.2"
+  version "3.3.3"
 
   on_intel do
-    sha256 "9abfcd6aa7359dcd4bee6a8ef52f022666c1d6be6a281bfdf536fee7273ec722"
+    sha256 "4212d2e9f9e0eb6717eb7c8da05e14a0c77ea8f3466df8b65ef2965d53d431f3"
 
-    url "https://github.com/Jeric-X/SyncClipboard/releases/download/v3.3.2/SyncClipboard_macos_x64.dmg"
+    url "https://github.com/Jeric-X/SyncClipboard/releases/download/v3.3.3/SyncClipboard_macos_x64.dmg"
   end
 
   on_arm do
-    sha256 "6f4f150578e14c2e7c5967eca0fb08df8540c7a5d44958ac321d25650ef4d7a6"
+    sha256 "be20dd03baecd5e03eefaf67a3307c8f5f5542243e78a985cae8815e80bd0b31"
 
-    url "https://github.com/Jeric-X/SyncClipboard/releases/download/v3.3.2/SyncClipboard_macos_arm64.dmg"
+    url "https://github.com/Jeric-X/SyncClipboard/releases/download/v3.3.3/SyncClipboard_macos_arm64.dmg"
   end
 
   name "SyncClipboard"
